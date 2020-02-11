@@ -1,0 +1,847 @@
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+ERROR: Lua error: /modules/corelib/ui/effects.lua:7: attempt to index local 'widget' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/corelib/ui/effects.lua:7: in function 'fadeIn'
+	/modules/client_background/background.lua:15: in function </modules/client_background/background.lua:15>
+ERROR: lua function callback failed: LUA ERROR:
+/modules/corelib/ui/effects.lua:7: attempt to index local 'widget' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/corelib/ui/effects.lua:7: in function 'fadeIn'
+	/modules/client_background/background.lua:15: in function </modules/client_background/background.lua:15>
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+ERROR: /modules/client_entergame/entergame.lua:291: attempt to index a nil value
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+ERROR: /modules/client_entergame/entergame.lua:291: attempt to index a nil value
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+ERROR: /modules/client_entergame/entergame.lua:291: attempt to index a nil value
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+ERROR: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+ERROR: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+ERROR: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Connecting to: 177.234.152.26:7171
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+ERROR: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+ERROR: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+ERROR: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+ERROR: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+ERROR: protected lua call failed: /modules/client_entergame/entergame.lua:358: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:358: in function 'doLogin'
+	/modules/client_entergame/entergame.otui:167: [@onClick]:2: in function </modules/client_entergame/entergame.otui:167: [@onClick]:1>
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Connecting to: 177.234.152.26:7171
+Connecting to: 177.234.152.26:7171
+Connecting to: 177.234.152.26:7171
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+FATAL ERROR: Unable to load module 'client_entergame': LUA ERROR: /modules/client_entergame/entergame.lua:358: unexpected symbol near '='
+stack traceback:
+	[builtin#146]: at 0x005ed880
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+FATAL ERROR: Unable to load module 'client_entergame': LUA ERROR: /modules/client_entergame/entergame.lua:358: unexpected symbol near '='
+stack traceback:
+	[builtin#146]: at 0x005ed880
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+FATAL ERROR: Unable to load module 'client_entergame': LUA ERROR: /modules/client_entergame/entergame.lua:358: unexpected symbol near '='
+stack traceback:
+	[builtin#146]: at 0x005ed880
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+FATAL ERROR: Unable to load module 'client_entergame': LUA ERROR: /modules/client_entergame/entergame.lua:358: unexpected symbol near '='
+stack traceback:
+	[builtin#146]: at 0x005ed880
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Connecting to: 177.234.152.26:7171
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Connecting to: 177.234.152.26:7171
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Connecting to: 177.234.152.26:7171
+Login to 177.234.152.26:7172
+ERROR: Unable to send extended opcode 1, extended opcodes are not enabled
+Login to 177.234.152.26:7172
+ERROR: Unable to send extended opcode 1, extended opcodes are not enabled
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Login to 177.234.152.26:8172
+ERROR: no thing at pos:32346 32220 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileRemoveThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: Unable to send extended opcode 1, extended opcodes are not enabled
+ERROR: ProtocolGame parse message exception (678 bytes, 631 unread, last opcode is 6, prev opcode is 242): unhandled opcode 6
+ERROR: /modules/game_market backpup/market.lua:280: attempt to get length of a nil value
+ERROR: protected lua call failed: C++ call failed: InputMessage eof reached
+stack traceback:
+	[builtin#146]: at 0x005ed880
+	[C]: in function 'getU32'
+	/modules/game_market backpup/marketprotocol.lua:91: in function 'callback'
+	/modules/gamelib/protocolgame.lua:7: in function </modules/gamelib/protocolgame.lua:4>
+ERROR: ProtocolGame parse message exception (196 bytes, 114 unread, last opcode is 248, prev opcode is -1): unhandled opcode 248
+ERROR: /modules/game_market backpup/market.lua:280: attempt to get length of a nil value
+ERROR: protected lua call failed: C++ call failed: InputMessage eof reached
+stack traceback:
+	[builtin#146]: at 0x005ed880
+	[C]: in function 'getU32'
+	/modules/game_market backpup/marketprotocol.lua:91: in function 'callback'
+	/modules/gamelib/protocolgame.lua:7: in function </modules/gamelib/protocolgame.lua:4>
+ERROR: ProtocolGame parse message exception (196 bytes, 114 unread, last opcode is 248, prev opcode is -1): unhandled opcode 248
+ERROR: ProtocolGame parse message exception (766 bytes, 422 unread, last opcode is 0, prev opcode is 25): InputMessage eof reached
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: failed to load UI from 'entergame.otui': 'background-color' is not a defined style
+FATAL ERROR: Unable to load module 'client_entergame': /modules/client_entergame/entergame.lua:187: attempt to index upvalue 'enterGame' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_entergame/entergame.lua:187: in function 'init'
+	/modules/client_entergame/entergame.otmod:7:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Login to 177.234.152.26:7172
+ERROR: Unable to send extended opcode 1, extended opcodes are not enabled
+Login to 177.234.152.26:7172
+ERROR: Unable to send extended opcode 1, extended opcodes are not enabled
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Login to 177.234.152.26:7172
+ERROR: Unable to send extended opcode 1, extended opcodes are not enabled
+Connecting to: 177.234.152.26:7171
+Login to 177.234.152.26:7172
+ERROR: Unable to send extended opcode 1, extended opcodes are not enabled
+Login to 177.234.152.26:7172
+ERROR: Unable to send extended opcode 1, extended opcodes are not enabled
+Exiting application..
+ERROR: protected lua call failed: /modules/game_textmessage/textmessage.lua:134: attempt to index field 'game_textmessage' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_textmessage/textmessage.lua:134: in function </modules/game_textmessage/textmessage.lua:133>
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Login to 177.234.152.26:7172
+ERROR: Unable to send extended opcode 1, extended opcodes are not enabled
+Exiting application..
+GPU Intel(R) HD Graphics 5500
+OpenGL 4.4.0 - Build 20.19.15.5070
+ERROR: Unable to find module 'client_news' required by 'client'
+ERROR: visible dimension must be odd
+stack traceback:
+	[C]: in function 'setVisibleDimension'
+	/modules/game_interface 2/widgets/uigamemap.lua:6: in function </modules/game_interface 2/widgets/uigamemap.lua:3>
+	[C]: in function 'displayUI'
+	/modules/game_interface 2/gameinterface.lua:35: in function 'init'
+	/modules/game_interface 2/interface.otmod:39:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:71: in main chunk
+at:
+	[C++]: ?setVisibleDimension@MapView@@QAEXABV?$TSize@H@@@Z
+ERROR: Unable to load texture '/otcbot-master/luniabot': unable to open file '/otcbot-master/luniabot.png': not found
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Connecting to: 177.234.152.26:7171
+Login to 177.234.152.26:7172
+ERROR: Unable to send extended opcode 1, extended opcodes are not enabled
+Exiting application..
